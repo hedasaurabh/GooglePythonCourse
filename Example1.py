@@ -5,5 +5,22 @@ for i in Friends:
 
 for i in range(0,10):
     print("Hello World")
-for i in range(10):
-    print("Hello WW")
+
+
+color = "Green"
+thing = "Hope"
+print(color +  " is the color of " + thing)
+print(2*5)
+print((((1+2)*3)/4)**5)
+
+color = "Yellow"
+thing = "sunshine"
+print(color + " is the color of " + thing)
+
+Seconds = 86400
+Days = 7
+Total = Seconds*Days
+print (Total)
+
+Total = 26**1
+print (Total)
