@@ -24,3 +24,8 @@ print (Total)
 
 Total = 26**1
 print (Total)
+
+A = '8'
+print (type(A))
+
+print("a"+"b"+"c")
