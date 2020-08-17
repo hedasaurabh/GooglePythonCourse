@@ -46,4 +46,14 @@ for home_team in teams:
 for left in range(7):
     for right in range(left,7):
         print "["+str(left)+"|"+str(right)+"]",
-    print 
+    print
+
+
+####################################################################################
+####################################################################################
+
+def factorial(n):
+    if n < 2:
+        return 1
+    return n * factorial(n-1)
+print (factorial(9))
