@@ -20,12 +20,12 @@ print(color + " is the color of " + thing)
 Seconds = 86400
 Days = 7
 Total = Seconds*Days
-print (Total)
+print (Total)dasdadasda
 
 Total = 26**1
-print (Total)
+print (Total)dasdasdasdadas
 
 A = '8'
 print (type(A))
-
+sddasdasdasdasdasda
 print("a"+"b"+"c")
